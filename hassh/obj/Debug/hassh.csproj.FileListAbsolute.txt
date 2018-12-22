@@ -1,0 +1,10 @@
+C:\Users\jhmn_\source\repos\hassh\hassh\obj\Debug\hassh.csprojAssemblyReference.cache
+C:\Users\jhmn_\source\repos\hassh\hassh\obj\Debug\hassh.Form1.resources
+C:\Users\jhmn_\source\repos\hassh\hassh\obj\Debug\hassh.Properties.Resources.resources
+C:\Users\jhmn_\source\repos\hassh\hassh\obj\Debug\hassh.csproj.GenerateResource.cache
+C:\Users\jhmn_\source\repos\hassh\hassh\obj\Debug\hassh.csproj.CoreCompileInputs.cache
+C:\Users\jhmn_\source\repos\hassh\hassh\bin\Debug\hassh.exe.config
+C:\Users\jhmn_\source\repos\hassh\hassh\bin\Debug\hassh.exe
+C:\Users\jhmn_\source\repos\hassh\hassh\bin\Debug\hassh.pdb
+C:\Users\jhmn_\source\repos\hassh\hassh\obj\Debug\hassh.exe
+C:\Users\jhmn_\source\repos\hassh\hassh\obj\Debug\hassh.pdb
